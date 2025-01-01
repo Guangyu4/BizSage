@@ -1,0 +1,7 @@
+{
+  "paper_id": "22985_Finance_JournalofRiskandInsu",
+  "domain": "Finance",
+  "journal": "JournalofRiskandInsu",
+  "title": "A Comparison of State-of-the-Art Classification Techniques for Expert Automobile Insurance Claim Fraud Detection",
+  "query": "How do state-of-the-art binary classification methods—logistic regression, decision trees, k-nearest neighbor, neural networks, support vector machines, and Bayesian classifiers—compare in their ability to detect fraudulent automobile insurance claims, and what is the added value of including non-flag predictors?"
+}

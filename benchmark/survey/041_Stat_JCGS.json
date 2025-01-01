@@ -1,0 +1,7 @@
+{
+  "paper_id": "00313_Stat_JCGS",
+  "domain": "Stat",
+  "journal": "JCGS",
+  "title": "Differentially Private Significance Tests for Regression Coefficients",
+  "query": "What methods have been developed for conducting valid statistical inference while satisfying differential privacy guarantees, and how can significance testing for regression coefficients be performed when analysts only have access to synthetic data or privacy-preserving query systems?"
+}

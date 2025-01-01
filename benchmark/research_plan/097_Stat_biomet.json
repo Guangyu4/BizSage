@@ -1,0 +1,7 @@
+{
+  "paper_id": "00928_Stat_biomet",
+  "domain": "Stat",
+  "journal": "biomet",
+  "title": "A recursive algorithm for Markov random fields",
+  "query": "What efficient recursive algorithms exist for computing likelihoods and performing inference in Markov random field models, and how do they address the computational intractability of normalizing constants in spatial and image analysis applications?"
+}

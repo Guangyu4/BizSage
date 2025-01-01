@@ -1,0 +1,7 @@
+{
+  "paper_id": "00223_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Dirichlet component regression and its applications to psychiatric data",
+  "query": "What regression models have been developed for compositional data—where observations are proportions that sum to one—and how do Dirichlet regression and its extensions handle the challenges of bounded, correlated multivariate responses in biomedical and psychiatric applications?"
+}

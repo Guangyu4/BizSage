@@ -1,0 +1,7 @@
+{
+  "paper_id": "26997_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "An Efficient Method for Computing Traffic Equilibria in Networks with Asymmetric Transportation Costs",
+  "query": "How can user equilibrium traffic assignment problems with asymmetric link cost functions—where the cost on one link depends on flows on other links—be solved efficiently using variational inequality methods and decomposition algorithms?"
+}

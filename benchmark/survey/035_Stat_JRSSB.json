@@ -1,0 +1,7 @@
+{
+  "paper_id": "00023_Stat_JRSSB",
+  "domain": "Stat",
+  "journal": "JRSSB",
+  "title": "Local composite quantile regression smoothing: an efficient and safe alternative to local polynomial regression",
+  "query": "What nonparametric regression smoothing methods have been developed as alternatives to local polynomial regression for improved efficiency under non-normal errors, and how do composite quantile regression approaches compare to local least squares and local LAD estimators in terms of asymptotic efficiency and robustness?"
+}

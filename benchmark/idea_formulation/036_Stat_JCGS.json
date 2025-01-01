@@ -1,0 +1,7 @@
+{
+  "paper_id": "00290_Stat_JCGS",
+  "domain": "Stat",
+  "journal": "JCGS",
+  "title": "Sequential Learning of Regression Models by Penalized Estimation",
+  "query": "How can regression models be efficiently updated as new data batches arrive with potentially different covariate sets, using penalized estimation that incorporates prior parameter estimates as informative shrinkage targets?"
+}

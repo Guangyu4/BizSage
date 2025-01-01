@@ -1,0 +1,7 @@
+{
+  "paper_id": "27053_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "A Newton-SOR Method for Spatial Price Equilibrium",
+  "query": "How can a Newton-SOR decomposition method be developed for computing spatial price equilibrium in networks with nonlinear supply and demand functions, and what convergence properties and computational advantages does it offer over existing algorithms?"
+}

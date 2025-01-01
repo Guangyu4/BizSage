@@ -1,0 +1,7 @@
+{
+  "paper_id": "00080_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Comparison of nonparametric methods in nonlinear mixed effects models",
+  "query": "How do different nonparametric methods for estimating the random effects distribution in nonlinear mixed effects models—NPML, NPEM, semi-nonparametric, and NONMEM's nonparametric approach—compare in terms of statistical performance and computational efficiency when applied to pharmacokinetic data with sparse observations?"
+}

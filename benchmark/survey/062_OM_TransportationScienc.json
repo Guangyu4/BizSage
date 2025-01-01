@@ -1,0 +1,7 @@
+{
+  "paper_id": "27047_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "An Effective Multirestart Deterministic Annealing Metaheuristic for the Fleet Size and Mix Vehicle Routing Problem",
+  "query": "What metaheuristic and exact optimization approaches have been developed for the fleet size and mix vehicle routing problem, and how do deterministic annealing, adaptive large neighborhood search, and other methods compare in solution quality and computational efficiency?"
+}

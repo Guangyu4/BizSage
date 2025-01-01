@@ -1,0 +1,7 @@
+{
+  "paper_id": "00130_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Advances in seeded dimension reduction: Bootstrap criteria and extensions",
+  "query": "How can seeded dimension reduction methods be extended to handle categorical predictor regressions and survival regression in high-dimensional settings where n < p, and what bootstrap-based procedures can determine the optimal number of successive projections?"
+}

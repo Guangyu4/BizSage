@@ -1,0 +1,7 @@
+{
+  "paper_id": "27020_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "Locations of Medians on Stochastic Networks",
+  "query": "How should facility locations be chosen on networks with stochastic link travel times to minimize expected total weighted distance, and what properties of the optimal median locations hold when edge lengths are random variables?"
+}

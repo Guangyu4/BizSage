@@ -1,0 +1,7 @@
+{
+  "paper_id": "00133_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Optimal experimental designs for estimating the drug combination index in toxicology",
+  "query": "How should experimental observations be allocated across single-substance and combination dose-response studies to optimally estimate drug combination indices, and how can c-optimal designs be combined with D-efficiency constraints to ensure both precise interaction estimation and reliable dose-response parameter estimation?"
+}

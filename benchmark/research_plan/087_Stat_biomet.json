@@ -1,0 +1,7 @@
+{
+  "paper_id": "00840_Stat_biomet",
+  "domain": "Stat",
+  "journal": "biomet",
+  "title": "Hierarchical generalised linear models: A synthesis of generalised linear models, random-effect models and structured dispersions",
+  "query": "How can hierarchical generalised linear models be developed as a unified framework that synthesizes GLMs, mixed linear models, and structured dispersions, using h-likelihood to enable efficient estimation without integrating out random effects?"
+}

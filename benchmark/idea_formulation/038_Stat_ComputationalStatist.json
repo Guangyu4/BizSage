@@ -1,0 +1,7 @@
+{
+  "paper_id": "00115_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Variable selection in the additive rate model for recurrent event data",
+  "query": "How can penalized regression methods such as adaptive LASSO and SCAD be adapted for variable selection under the additive rate model for recurrent event data, and do these procedures enjoy oracle properties in this semiparametric setting?"
+}

@@ -1,0 +1,7 @@
+{
+  "paper_id": "00730_Stat_biomet",
+  "domain": "Stat",
+  "journal": "biomet",
+  "title": "Statistical inference on shape and size indexes for counting processes",
+  "query": "How can the rate function of a recurrent event counting process be decomposed into shape and size components modeled by separate single-index functions with monotone link constraints, and what rank-based estimation procedure achieves root-n consistent estimation with or without informative censoring?"
+}

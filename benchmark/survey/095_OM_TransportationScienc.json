@@ -1,0 +1,7 @@
+{
+  "paper_id": "27019_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "The Capacitated Traveling Salesmen Location Problem",
+  "query": "What heuristic and exact algorithms have been developed for probabilistic location-routing problems with capacity constraints, and how do worst-case error bounds and asymptotic optimality results guide the design of service network configurations under stochastic customer demand?"
+}

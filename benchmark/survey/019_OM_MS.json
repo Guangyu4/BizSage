@@ -1,0 +1,7 @@
+{
+  "paper_id": "25531_OM_MS",
+  "domain": "OM",
+  "journal": "MS",
+  "title": "Geometric Approaches to Solving the Traveling Salesman Problem",
+  "query": "What geometric heuristics and algorithms have been developed for solving the traveling salesman problem using spatial properties of point locations, and how do they compare in solution quality and computational efficiency to general-purpose TSP algorithms?"
+}

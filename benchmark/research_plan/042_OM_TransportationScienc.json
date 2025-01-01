@@ -1,0 +1,7 @@
+{
+  "paper_id": "27065_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "Vehicle Routing and Scheduling with Full Truckloads",
+  "query": "How can a branch-and-bound algorithm with column generation be designed to solve the vehicle routing problem with full truckloads, time-window constraints, and waiting costs, and what computational efficiency gains does exploiting the special problem structure provide over general integer programming approaches?"
+}

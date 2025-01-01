@@ -1,0 +1,7 @@
+{
+  "paper_id": "00449_Stat_JournalofMultivariat",
+  "domain": "Stat",
+  "journal": "JournalofMultivariat",
+  "title": "Location-Adaptive Density Estimation and Nearest-Neighbor Distance",
+  "query": "What location-adaptive methods have been developed for nonparametric density estimation, and how do nearest-neighbor-based approaches adapt to varying local smoothness and achieve optimal convergence rates across different regions of the support?"
+}

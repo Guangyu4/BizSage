@@ -1,0 +1,7 @@
+{
+  "paper_id": "00269_Stat_JCGS",
+  "domain": "Stat",
+  "journal": "JCGS",
+  "title": "Two-Dimensional Functional Principal Component Analysis for Image Feature Extraction",
+  "query": "What methods have been developed for extending functional principal component analysis from one-dimensional curves to two-dimensional surfaces such as images, and how do different approaches to estimating functional principal components handle the computational challenges of high-dimensional covariance estimation?"
+}

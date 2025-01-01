@@ -1,0 +1,7 @@
+{
+  "paper_id": "27067_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "Solving a Practical Pickup and Delivery Problem",
+  "query": "How can large-scale practical pickup and delivery problems with time windows, vehicle capacity constraints, and multiple depots be solved efficiently using column generation and heuristic approaches, and what computational gains are achievable on real-world instances?"
+}

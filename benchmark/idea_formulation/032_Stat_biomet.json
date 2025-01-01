@@ -1,0 +1,7 @@
+{
+  "paper_id": "00768_Stat_biomet",
+  "domain": "Stat",
+  "journal": "biomet",
+  "title": "Estimation from quasi life tables",
+  "query": "How can parameters of a component lifelength distribution be estimated when only aggregate failure counts between time intervals are available rather than individual failure times, and what role does recurrent event theory play in constructing nonparametric estimators from such grouped data?"
+}

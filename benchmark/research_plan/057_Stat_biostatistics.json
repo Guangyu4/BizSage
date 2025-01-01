@@ -1,0 +1,7 @@
+{
+  "paper_id": "00257_Stat_biostatistics",
+  "domain": "Stat",
+  "journal": "biostatistics",
+  "title": "Direct estimation and inference of higher-level correlations from lower-level measurements with applications in gene-pathway and proteomics studies",
+  "query": "How can correlations between higher-level biological variables like proteins and gene pathways be directly estimated from lower-level peptide and gene expression measurements without data aggregation, using a latent factor model with shrinkage estimation?"
+}

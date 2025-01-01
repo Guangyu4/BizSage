@@ -1,0 +1,7 @@
+{
+  "paper_id": "00296_Stat_JCGS",
+  "domain": "Stat",
+  "journal": "JCGS",
+  "title": "Comparison of Methods for Image Analysis on cDNA Microarray Data",
+  "query": "How do different segmentation and background correction methods for cDNA microarray image analysis—including fixed circle, adaptive circle, histogram-based, and seeded region growing approaches—compare in terms of precision and accuracy of estimated fluorescence intensities?"
+}

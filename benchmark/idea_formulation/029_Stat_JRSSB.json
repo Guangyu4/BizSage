@@ -1,0 +1,7 @@
+{
+  "paper_id": "00019_Stat_JRSSB",
+  "domain": "Stat",
+  "journal": "JRSSB",
+  "title": "Detecting Heteroscedasticity in Nonparametric Regression",
+  "query": "What diagnostic tests and graphical methods can effectively detect heteroscedasticity in nonparametric regression settings, and what are the power properties of score-based test statistics for the hypothesis of homogeneous variances?"
+}

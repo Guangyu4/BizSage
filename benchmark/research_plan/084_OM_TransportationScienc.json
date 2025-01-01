@@ -1,0 +1,7 @@
+{
+  "paper_id": "26990_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "A Branch-and-Cut Algorithm for a Vendor-Managed Inventory-Routing Problem",
+  "query": "How can exact branch-and-cut algorithms be designed to solve the vendor-managed inventory-routing problem where a supplier determines both delivery quantities and vehicle routes to minimize total distribution and inventory costs?"
+}

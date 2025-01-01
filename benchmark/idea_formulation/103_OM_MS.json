@@ -1,0 +1,7 @@
+{
+  "paper_id": "25583_OM_MS",
+  "domain": "OM",
+  "journal": "MS",
+  "title": "Detecting Small Mean Shifts in Time Series",
+  "query": "What statistical methods are most effective for detecting small mean shifts in time series data, and how do change-point detection approaches balance sensitivity to small changes against false alarm rates in quality control and process monitoring applications?"
+}

@@ -1,0 +1,7 @@
+{
+  "paper_id": "25577_OM_MS",
+  "domain": "OM",
+  "journal": "MS",
+  "title": "The Markovian Queue with Bounded Waiting time",
+  "query": "What are the steady-state performance characteristics of a Markovian queueing system where customers have a maximum tolerable waiting time and leave the queue if not served within that bound, and how do these differ from standard M/M/s queue results?"
+}

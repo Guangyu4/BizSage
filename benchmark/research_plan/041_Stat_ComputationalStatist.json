@@ -1,0 +1,7 @@
+{
+  "paper_id": "00204_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "A classical and Bayesian estimation of a k-components load-sharing parallel system",
+  "query": "How can maximum likelihood and Bayesian methods—including Gibbs sampling with gamma and Jeffrey's priors—be developed to estimate load-sharing parameters in a parallel system where some components have constant failure rates and others have linearly increasing failure rates?"
+}

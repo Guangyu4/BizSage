@@ -1,0 +1,10 @@
+model,cycle,survey_relevance,survey_grounding,survey_coverage,survey_synthesis,idea_formulation_relevance,idea_formulation_grounding,idea_formulation_novelty,idea_formulation_feasibility,research_plan_relevance,research_plan_grounding,research_plan_rigor,research_plan_feasibility
+gpt,Bizsage_cycle1,4.3,2.05,3.94,3.86,4.57,2.17,3.4,3.57,4.62,2.35,4.0,3.31
+gpt,Bizsage_cycle2,4.14,2.06,3.77,3.89,4.52,2.07,3.16,3.54,4.6,2.25,3.94,3.42
+gpt,Bizsage_cycle3,4.37,2.14,4.04,3.89,4.51,2.12,3.43,3.55,4.69,2.36,4.03,3.45
+gemini,Bizsage_cycle1,,,,,,,,,,,,
+gemini,Bizsage_cycle2,,,,,,,,,,,,
+gemini,Bizsage_cycle3,,,,,,,,,,,,
+deepseek,Bizsage_cycle1,,,,,,,,,,,,
+deepseek,Bizsage_cycle2,,,,,,,,,,,,
+deepseek,Bizsage_cycle3,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+{
+  "paper_id": "25555_OM_MS",
+  "domain": "OM",
+  "journal": "MS",
+  "title": "Chance-Constrained Linear Programming with Chi-Square Type Deviates",
+  "query": "What are the implications of replacing the normality assumption with chi-square and exponential distributions in chance-constrained linear programming, and how can the resulting nonlinear optimization problems be solved computationally through generalized polynomial programming?"
+}

@@ -1,0 +1,7 @@
+{
+  "paper_id": "00163_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatistics",
+  "title": "Dimension-reduced semiparametric estimation of distribution functions and quantiles with nonignorable nonresponse",
+  "query": "How can sufficient dimension reduction techniques be combined with semiparametric estimation methods to efficiently estimate distribution functions and quantiles when data suffer from nonignorable missing responses and the covariate dimension is high?"
+}

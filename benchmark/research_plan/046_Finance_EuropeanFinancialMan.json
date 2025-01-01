@@ -1,0 +1,7 @@
+{
+  "paper_id": "22957_Finance_EuropeanFinancialMan",
+  "domain": "Finance",
+  "journal": "EuropeanFinancialMan",
+  "title": "Forecasting high-frequency excess stock returns via data analytics and machine learning",
+  "query": "Can order-flow and trade-derived data analytics from an exchange be combined with machine learning methods such as XGBoost, random forests, and SVM to forecast intraday excess stock returns with accuracy significantly above 50%, and what does this imply for semistrong market efficiency?"
+}

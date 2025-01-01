@@ -1,0 +1,7 @@
+{
+  "paper_id": "00285_Stat_JCGS",
+  "domain": "Stat",
+  "journal": "JCGS",
+  "title": "A Brief History of Statistical Models for Network Analysis and Open Challenges",
+  "query": "What are the major developments in statistical models for network analysis—from Erdos-Renyi random graphs to exponential random graph models and latent space models—and what open challenges remain in scaling these methods to large-scale networks with community structure?"
+}

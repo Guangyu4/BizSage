@@ -1,0 +1,7 @@
+{
+  "paper_id": "00267_Stat_JCGS",
+  "domain": "Stat",
+  "journal": "JCGS",
+  "title": "Generalized Nonparametric Mixed-Effect Models: Computation and Smoothing Parameter Selection",
+  "query": "What computational strategies and smoothing parameter selection methods have been developed for estimating nonparametric fixed effects in generalized linear mixed models with correlated non-Gaussian data, and how do penalized likelihood and cross-validation approaches compare in terms of efficiency and practical performance?"
+}

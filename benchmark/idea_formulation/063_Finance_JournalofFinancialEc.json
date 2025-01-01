@@ -1,0 +1,7 @@
+{
+  "paper_id": "02012_Finance_JournalofFinancialEc",
+  "domain": "Finance",
+  "journal": "JournalofFinancialEc",
+  "title": "Dynamic Nonparametric Clustering of Multivariate Panel Data",
+  "query": "How can a dynamic clustering method for multivariate panel data be designed that allows time-varying cluster compositions while avoiding overly frequent switching, and what shrinkage penalty optimally balances persistence and flexibility in cluster assignments?"
+}

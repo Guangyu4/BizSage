@@ -1,0 +1,7 @@
+{
+  "paper_id": "00227_Stat_biostatistics",
+  "domain": "Stat",
+  "journal": "biostatistics",
+  "title": "Inference on treatment effects from a randomized clinical trial in the presence of premature treatment discontinuation: the SYNERGY trial",
+  "query": "How can causal inference methods based on inverse probability weighting be used to estimate the treatment effect of anticoagulant regimens when some subjects prematurely discontinue assigned treatment, distinguishing between mandatory and optional discontinuation within a dynamic treatment regime framework?"
+}

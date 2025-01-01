@@ -1,0 +1,7 @@
+{
+  "paper_id": "25624_OM_MS",
+  "domain": "OM",
+  "journal": "MS",
+  "title": "Maximal Flow in a Multi-Terminal Network with Any One Arc Subject to Failure",
+  "query": "How can the maximum flow problem be solved efficiently in a multi-terminal network where any single arc may be subject to failure, and what structural properties of the optimal flow patterns emerge under single-arc vulnerability?"
+}

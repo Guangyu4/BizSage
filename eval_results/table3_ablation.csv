@@ -1,0 +1,6 @@
+condition,survey_relevance,survey_grounding,survey_coverage,survey_synthesis,idea_formulation_relevance,idea_formulation_grounding,idea_formulation_novelty,idea_formulation_feasibility,research_plan_relevance,research_plan_grounding,research_plan_rigor,research_plan_feasibility
+Bizsage (full),4.37,2.14,4.04,3.89,4.51,2.12,3.43,3.55,4.69,2.36,4.03,3.45
+w/o section level,4.32,2.19,3.99,3.92,4.48,2.26,3.35,3.61,4.73,2.56,4.01,3.55
+w/o reviewer,4.16,2.06,3.89,3.83,4.36,2.08,3.35,3.5,4.62,2.27,3.97,3.32
+w/o discussant,4.2,2.03,3.79,3.68,4.26,2.07,3.19,3.36,4.57,2.26,3.87,3.18
+w/o inside_evolution,4.23,2.15,3.93,3.94,4.36,2.23,3.34,3.55,4.71,2.41,3.97,3.46

@@ -1,0 +1,7 @@
+{
+  "paper_id": "00272_Stat_JCGS",
+  "domain": "Stat",
+  "journal": "JCGS",
+  "title": "Dynamically Rescaled Hamiltonian Monte Carlo for Bayesian Hierarchical Models",
+  "query": "How can a bijective reparameterization that normalizes local scaling properties be combined with standard Euclidean-metric Hamiltonian Monte Carlo to achieve efficient sampling in Bayesian hierarchical models with strongly varying scale, and what role do constant information parameterizations play?"
+}

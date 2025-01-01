@@ -1,0 +1,7 @@
+{
+  "paper_id": "00457_Stat_JournalofMultivariat",
+  "domain": "Stat",
+  "journal": "JournalofMultivariat",
+  "title": "Variable selection in functional regression models: A review",
+  "query": "What methods have been developed for variable selection in functional regression models where predictors or responses are curves or functions, and how do these approaches handle the infinite-dimensional nature of functional data?"
+}

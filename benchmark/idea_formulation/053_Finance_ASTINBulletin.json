@@ -1,0 +1,7 @@
+{
+  "paper_id": "02135_Finance_ASTINBulletin",
+  "domain": "Finance",
+  "journal": "ASTINBulletin",
+  "title": "Asymptotics for operational risk quantified with Expected Shortfall",
+  "query": "How does the Expected Shortfall for operational risk losses behave asymptotically as the confidence level approaches 100% under regularly varying loss severity distributions, and how does a Levy copula dependence structure extend the univariate results to the multivariate case?"
+}

@@ -1,0 +1,7 @@
+{
+  "paper_id": "00145_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Generalized spatial dynamic factor models",
+  "query": "How can a latent factor analysis framework for spatio-temporal data from the exponential family be designed so that spatial variation is captured by the factor loadings and temporal dynamics by the common factors, and what MCMC methods enable efficient posterior inference including determination of the number of factors?"
+}

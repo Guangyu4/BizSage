@@ -1,0 +1,7 @@
+{
+  "paper_id": "00307_Stat_JCGS",
+  "domain": "Stat",
+  "journal": "JCGS",
+  "title": "Tensor Canonical Correlation Analysis With Convergence and Statistical Guarantees",
+  "query": "How can canonical correlation analysis be extended to tensor-valued data with provable convergence guarantees, and what initialization, deflation, and stochastic optimization strategies make the higher-order power method practical for large-scale applications in gene expression and environmental data?"
+}

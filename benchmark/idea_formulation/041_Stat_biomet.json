@@ -1,0 +1,7 @@
+{
+  "paper_id": "00822_Stat_biomet",
+  "domain": "Stat",
+  "journal": "biomet",
+  "title": "Model robust response surface designs: Scaling two-level factorials",
+  "query": "How should the levels of factors in a two-level factorial response surface experiment be scaled to balance estimation precision against model misspecification bias, and how does a Bayesian prior on the adequacy of a first-degree polynomial approximation influence the optimal design scale?"
+}

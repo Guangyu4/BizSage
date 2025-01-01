@@ -1,0 +1,7 @@
+{
+  "paper_id": "27050_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "Control Strategies for an Idealized Public Transportation System",
+  "query": "What are the optimal control strategies for dispatching vehicles in a public transportation system to minimize total passenger waiting and travel time, and how do holding and expressing policies interact with stochastic passenger arrivals and vehicle dynamics?"
+}

@@ -1,0 +1,7 @@
+{
+  "paper_id": "00903_Stat_biomet",
+  "domain": "Stat",
+  "journal": "biomet",
+  "title": "Radial neighbours for provably accurate scalable approximations of Gaussian processes",
+  "query": "What scalable approximation methods have been developed for Gaussian process inference in large datasets, and how do nearest-neighbor, inducing-point, and sparse approaches trade off between computational cost and approximation accuracy?"
+}

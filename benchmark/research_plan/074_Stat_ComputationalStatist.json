@@ -1,0 +1,7 @@
+{
+  "paper_id": "00155_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Cause-specific hazard regression for competing risks data under interval censoring and left truncation",
+  "query": "How can a penalized likelihood approach for Cox-type proportional cause-specific hazards models handle both interval censoring and left truncation in competing risks data, and what are the asymptotic properties and practical performance in applications such as dementia risk factor studies?"
+}

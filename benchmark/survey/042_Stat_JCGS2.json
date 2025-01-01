@@ -1,0 +1,7 @@
+{
+  "paper_id": "00314_Stat_JCGS",
+  "domain": "Stat",
+  "journal": "JCGS",
+  "title": "Scalable Model-Free Feature Screening via Sliced-Wasserstein Dependency",
+  "query": "What model-free feature screening methods have been developed for ultrahigh-dimensional data, and how do approaches based on optimal transport distances compare to distance correlation and other dependence measures in terms of computational scalability and sure screening properties?"
+}

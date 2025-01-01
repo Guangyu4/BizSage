@@ -1,0 +1,7 @@
+{
+  "paper_id": "00099_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Matrix exponential stochastic volatility with cross leverage",
+  "query": "How can a multivariate stochastic volatility model using matrix exponential transformation capture both dynamic correlations and cross-leverage effects while ensuring positive definiteness of covariance matrices, and how does it compare to constant correlation MSV and diagonal BEKK-GARCH models when applied to stock, bond, and exchange rate returns?"
+}

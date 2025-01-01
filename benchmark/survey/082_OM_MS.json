@@ -1,0 +1,7 @@
+{
+  "paper_id": "25594_OM_MS",
+  "domain": "OM",
+  "journal": "MS",
+  "title": "Conditional Monte Carlo: A Simulation Technique for Stochastic Network Analysis",
+  "query": "What variance reduction techniques—including conditional Monte Carlo, antithetic variates, and control variates—have been developed for simulation-based analysis of stochastic networks, and how do they improve the efficiency of estimating project completion time distributions in PERT networks?"
+}

@@ -1,0 +1,7 @@
+{
+  "paper_id": "00480_Stat_JournalofMultivariat",
+  "domain": "Stat",
+  "journal": "JournalofMultivariat",
+  "title": "Smoothed jackknife empirical likelihood inference for ROC curves with missing data",
+  "query": "How can nonparametric empirical likelihood methods be adapted to construct valid confidence intervals for ROC curves when the diagnostic test data are subject to missing completely at random, and what are the finite-sample properties of such methods?"
+}

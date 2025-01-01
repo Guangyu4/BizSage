@@ -1,0 +1,7 @@
+{
+  "paper_id": "01672_Econ_JOE",
+  "domain": "Econ",
+  "journal": "JOE",
+  "title": "First difference maximum likelihood and dynamic panel estimation",
+  "query": "What theoretical challenges arise when applying likelihood-based estimation to differenced data in dynamic panel models with highly persistent time series, and how do boundary effects in the parameter space influence the estimator's finite-sample and asymptotic behavior?"
+}

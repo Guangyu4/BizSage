@@ -1,0 +1,7 @@
+{
+  "paper_id": "25652_OM_MathematicalProgramm",
+  "domain": "OM",
+  "journal": "MathematicalProgramm",
+  "title": "Distributionally robust chance-constrained programs with right-hand side uncertainty under Wasserstein ambiguity",
+  "query": "How can the computational tractability of distributionally robust chance-constrained programs under Wasserstein ambiguity sets be significantly improved through polyhedral analysis, and what structural connections to sample average approximation and robust combinatorial optimization can be exploited?"
+}

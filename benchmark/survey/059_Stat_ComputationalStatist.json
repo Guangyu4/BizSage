@@ -1,0 +1,7 @@
+{
+  "paper_id": "00134_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Generalized profiling estimation for global and adaptive penalized spline smoothing",
+  "query": "What methods have been developed for penalized spline smoothing in nonparametric and semiparametric regression, and how do global versus adaptive penalty approaches trade off between smoothness and local flexibility in estimating regression functions?"
+}

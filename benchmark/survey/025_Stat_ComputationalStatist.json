@@ -1,0 +1,7 @@
+{
+  "paper_id": "00142_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Model-based clustering of high-dimensional data: A review",
+  "query": "What are the main approaches for adapting model-based clustering methods to high-dimensional data, and how do dimension reduction, regularization, parsimonious modeling, subspace clustering, and variable selection techniques compare in addressing the curse of dimensionality in mixture model-based clustering?"
+}

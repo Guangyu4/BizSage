@@ -1,0 +1,7 @@
+{
+  "paper_id": "00093_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Empirical Bayes estimators of the random intercept in multilevel analysis: Performance of the classical, Morris and Rao version",
+  "query": "How do different empirical Bayes estimators of the random intercept—classical MLE-based, Morris-corrected, and Rao's ANOVA-based—compare in terms of Bayes risk when the level-1 error variance is unknown, and for what sample sizes do these differences become practically negligible?"
+}

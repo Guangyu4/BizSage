@@ -1,0 +1,7 @@
+{
+  "paper_id": "00835_Stat_biomet",
+  "domain": "Stat",
+  "journal": "biomet",
+  "title": "Maximum likelihood estimation of the parameters of the generalized extreme-value distribution",
+  "query": "What are the explicit expressions for the Fisher information matrix of the three-parameter generalized extreme-value distribution, and under what regularity conditions does maximum likelihood estimation yield consistent and asymptotically normal estimators?"
+}

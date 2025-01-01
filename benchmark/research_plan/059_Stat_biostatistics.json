@@ -1,0 +1,7 @@
+{
+  "paper_id": "00246_Stat_biostatistics",
+  "domain": "Stat",
+  "journal": "biostatistics",
+  "title": "Penalized likelihood estimation of a trivariate additive probit model",
+  "query": "How can penalized likelihood estimation with automatic smoothing parameter selection be developed for trivariate probit models with semiparametric predictors, and how does a correlation-based penalty improve the accuracy of dependence parameter estimation in applications to joint modeling of adverse birth outcomes?"
+}

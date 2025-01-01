@@ -1,0 +1,7 @@
+{
+  "paper_id": "00256_Stat_biostatistics",
+  "domain": "Stat",
+  "journal": "biostatistics",
+  "title": "Markov counting models for correlated binary responses",
+  "query": "How can continuous-time Markov counting processes be used to model sums of exchangeable Bernoulli random variables, and what advantages does this probabilistic embedding approach offer for analyzing correlated binary data with varying cluster sizes and ascertainment bias compared to existing beta-binomial and mixed-effects models?"
+}

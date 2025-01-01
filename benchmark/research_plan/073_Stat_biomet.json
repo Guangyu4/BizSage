@@ -1,0 +1,7 @@
+{
+  "paper_id": "00908_Stat_biomet",
+  "domain": "Stat",
+  "journal": "biomet",
+  "title": "Jackknife estimation of mean squared error of small area predictors in nonlinear mixed models",
+  "query": "How can jackknife methods be adapted to provide nearly unbiased and area-specific estimators of the mean squared prediction error for empirical Bayes predictors in nonlinear mixed models used for small area estimation and disease mapping?"
+}

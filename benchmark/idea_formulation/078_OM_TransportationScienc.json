@@ -1,0 +1,7 @@
+{
+  "paper_id": "27033_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "The Stochastic Eulerian Tour Problem",
+  "query": "How should routing decisions be made for a vehicle traversing all edges of a graph when edge requirements are stochastic and only revealed upon arrival, and what are the structural properties and solution approaches for the stochastic Eulerian tour problem?"
+}

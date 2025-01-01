@@ -1,0 +1,7 @@
+{
+  "paper_id": "00570_Stat_JournalofMultivariat",
+  "domain": "Stat",
+  "journal": "JournalofMultivariat",
+  "title": "Sequential Confidence Sets with Guaranteed Coverage Probability and Beta-Protection",
+  "query": "How can sequential confidence sets for vector-valued parameters be constructed to guarantee both a minimum coverage probability and an upper bound on the probability of covering a specified set of false values, with applications to multivariate normal means and regression models?"
+}

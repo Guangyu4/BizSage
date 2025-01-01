@@ -1,0 +1,7 @@
+{
+  "paper_id": "26981_OM_TransportationScienc",
+  "domain": "OM",
+  "journal": "TransportationScienc",
+  "title": "Optimization of Traffic Signal Settings by Mixed-Integer Linear Programming",
+  "query": "How can traffic signal cycle time, green splits, and offsets in a signal-controlled street network be simultaneously optimized using mixed-integer linear programming, and what performance gains does network-wide optimization provide over sequential setting of individual control variables?"
+}

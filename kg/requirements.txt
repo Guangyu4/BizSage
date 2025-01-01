@@ -1,0 +1,10 @@
+requests
+numpy
+scipy
+sentence-transformers
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+pyvis
+pandas

@@ -1,0 +1,7 @@
+{
+  "paper_id": "00992_Stat_ScandinavianJournalo",
+  "domain": "Stat",
+  "journal": "ScandinavianJournalo",
+  "title": "On Projection-type Estimators of Multivariate Isotonic Functions",
+  "query": "Under what conditions do projection-type monotonization techniques—taking the largest monotone function below or smallest above an unconstrained estimator—preserve the asymptotic distributional properties of the original estimator, and how can these be applied to conditional distribution function and frontier estimation?"
+}

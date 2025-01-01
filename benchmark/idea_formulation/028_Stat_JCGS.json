@@ -1,0 +1,7 @@
+{
+  "paper_id": "00297_Stat_JCGS",
+  "domain": "Stat",
+  "journal": "JCGS",
+  "title": "Boosting Random Forests to Reduce Bias; One-Step Boosted Forest and Its Variance Estimate",
+  "query": "Can a single boosting step applied to random forest predictions effectively reduce bias while maintaining the favorable variance properties of the ensemble, and how should variance estimates be constructed for the resulting boosted forest predictor?"
+}

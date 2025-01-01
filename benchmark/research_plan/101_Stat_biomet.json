@@ -1,0 +1,7 @@
+{
+  "paper_id": "00791_Stat_biomet",
+  "domain": "Stat",
+  "journal": "biomet",
+  "title": "Efficiency Robust Score Tests for Rodent Tumourigenicity Experiments",
+  "query": "Design a research plan to develop maximin efficiency robust score tests for analyzing rodent carcinogenicity experiments, addressing the problem that standard Peto-type tests rely on specific distributional assumptions (extreme value hazard for fatal tumours, logistic prevalence for incidental tumours) that may not hold in practice, and aiming to construct tests that maintain near-full efficiency across a broad class of hazard and prevalence functions."
+}

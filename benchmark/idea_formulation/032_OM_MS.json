@@ -1,0 +1,7 @@
+{
+  "paper_id": "25519_OM_MS",
+  "domain": "OM",
+  "journal": "MS",
+  "title": "Queues with Instantaneous Feedback",
+  "query": "What are the steady-state queue length properties of single-server queueing systems with multiple customer types and instantaneous feedback, where customers returning for additional service may change priority class?"
+}

@@ -1,0 +1,7 @@
+{
+  "paper_id": "00159_Stat_ComputationalStatist",
+  "domain": "Stat",
+  "journal": "ComputationalStatist",
+  "title": "Communication-efficient distributed M-estimation with missing data",
+  "query": "How can distributed Newton-type algorithms be extended to handle missing data through inverse probability weighting while maintaining communication efficiency and achieving full-sample statistical performance after a moderate number of iterations?"
+}

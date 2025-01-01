@@ -1,0 +1,7 @@
+{
+  "paper_id": "25615_OM_MS",
+  "domain": "OM",
+  "journal": "MS",
+  "title": "Assembly Line Balancing using Best Bud Search",
+  "query": "How can the best bud search algorithm be applied to the assembly line balancing problem to find optimal or near-optimal task assignments to workstations that minimize the number of stations subject to cycle time and precedence constraints?"
+}

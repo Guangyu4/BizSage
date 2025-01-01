@@ -1,0 +1,7 @@
+{
+  "paper_id": "00240_Stat_biostatistics",
+  "domain": "Stat",
+  "journal": "biostatistics",
+  "title": "Simple subgroup approximations to optimal treatment regimes from randomized clinical trial data",
+  "query": "What methods have been developed for estimating optimal individualized treatment regimes from randomized clinical trial data, and how do subgroup-based approximation approaches compare to more complex machine learning methods in terms of interpretability and statistical efficiency?"
+}

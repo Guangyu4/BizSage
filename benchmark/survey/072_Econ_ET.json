@@ -1,0 +1,7 @@
+{
+  "paper_id": "01966_Econ_ET",
+  "domain": "Econ",
+  "journal": "ET",
+  "title": "Model-Free Asymptotically Best Forecasting of Stationary Economic Time Series",
+  "query": "What model-free forecasting methods achieve optimal prediction of stationary economic time series, and how do nonparametric approaches compare to parametric ARIMA and VAR models in terms of asymptotic efficiency and finite-sample performance?"
+}

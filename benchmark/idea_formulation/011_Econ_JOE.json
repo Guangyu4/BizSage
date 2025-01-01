@@ -1,0 +1,7 @@
+{
+  "paper_id": "01652_Econ_JOE",
+  "domain": "Econ",
+  "journal": "JOE",
+  "title": "Inference on the tail process with application to financial time series modeling",
+  "query": "How can the spectral tail process of a heavy-tailed stationary time series be nonparametrically estimated to measure serial extremal dependence, and what resampling methods provide valid confidence intervals for assessing model adequacy in capturing extremal clustering?"
+}

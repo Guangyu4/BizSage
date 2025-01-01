@@ -1,0 +1,7 @@
+{
+  "paper_id": "25651_OM_MathematicalProgramm",
+  "domain": "OM",
+  "journal": "MathematicalProgramm",
+  "title": "Decomposition of loosely coupled integer programs: a multiobjective perspective",
+  "query": "How can multiobjective optimization methods be used to decompose large-scale integer programs that consist of many independent subsystems linked by a small number of coupling constraints, and what are the computational benefits of this approach compared to traditional Lagrangian or column generation methods?"
+}

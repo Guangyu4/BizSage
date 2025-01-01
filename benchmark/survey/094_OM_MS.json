@@ -1,0 +1,7 @@
+{
+  "paper_id": "25643_OM_MS",
+  "domain": "OM",
+  "journal": "MS",
+  "title": "On Time Flow Mechanisms for Discrete System Simulation",
+  "query": "What are the principal time flow mechanisms—such as event scheduling, activity scanning, and process interaction—used in discrete event simulation, and how do different algorithmic implementations along the timing continuum affect computational efficiency for various classes of simulation models?"
+}

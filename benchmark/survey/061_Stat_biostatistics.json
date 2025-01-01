@@ -1,0 +1,7 @@
+{
+  "paper_id": "00245_Stat_biostatistics",
+  "domain": "Stat",
+  "journal": "biostatistics",
+  "title": "Classification method for disease risk mapping based on discrete hidden Markov random fields",
+  "query": "What statistical methods have been developed for spatial disease risk mapping, and how do hidden Markov random field models compare to other approaches for classifying geographic regions by disease risk while accounting for spatial dependence?"
+}
